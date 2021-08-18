@@ -1,0 +1,21 @@
+set $wallpaper /home/inazurai/Downloads/retro.jpg
+
+set $background #0B0716
+set $foreground #f1efdf
+
+set $color0 #0B0716
+set $color1 #CE9977
+set $color2 #D86B8F
+set $color3 #AFA591
+set $color4 #D5AD97
+set $color5 #DDD2AF
+set $color6 #E2DAC9
+set $color7 #f1efdf
+set $color8 #a8a79c
+set $color9 #CE9977
+set $color10 #D86B8F
+set $color11 #AFA591
+set $color12 #D5AD97
+set $color13 #DDD2AF
+set $color14 #E2DAC9
+set $color15 #f1efdf
